@@ -1,9 +1,9 @@
 {
-    "name": "raveren/kint",
+    "name": "neitanod/kint",
     "description": "Kint - debugging helper for PHP developers",
     "keywords": ["kint", "php", "debug"],
     "type": "library",
-    "homepage": "https://github.com/raveren/kint",
+    "homepage": "https://github.com/neitanod/kint",
     "license": "MIT",
     "authors": [
         {
